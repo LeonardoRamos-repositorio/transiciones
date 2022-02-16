@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.cabeceratitulo {
+  background-color: #001220;
+  color: white;
+  padding: 10px;
+}
+
+nav li a {
+  text-decoration: none;
+  font-size: 2rem;
+  display: block;
+}
+
+p {
+  font-size: 2rem;
+  padding: 5px;
+}
+
+label {
+  font-size: 2rem;
+  padding: 5px;
+}
+
+.pareja {
+  width: 400px;
+}
+
+.pie__foto {
+  font-size: 2rem;
+}
+
+.seleccion {
+  font-size: 2rem;
+}
+
+.btn {
+  padding: 5px;
+}
+
+.bloque {
+  font-size: 2rem;
+}
+
+.bloque-pequeno {
+  background-color: papayawhip;
+  width: 300px;
+  margin: 30px;
+}
+
+.small {
+  font-size: 1.5rem;
+}
